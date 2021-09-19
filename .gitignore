@@ -11,7 +11,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.nar
 *.ear
@@ -21,3 +20,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Idea files
+/.idea/
+
+# Maven files
+/Legacy5Lab/Legacy5Lab.iml
+/Server/Server.iml
+/Client/Client.iml
+/Legacy5Lab/target/
+/Server/target/
+/Client/target/
